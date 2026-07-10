@@ -39,7 +39,7 @@ pip install -r requirements.txt
 cd src && python simulate.py
 ```
 
-## Engineering decisions worth knowing (for interview / review)
+## Key Engineering Decisions
 
 **1. Why RK4 instead of Euler integration?**
 Euler integration accumulates visible error on oscillatory/rotational
